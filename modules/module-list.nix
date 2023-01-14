@@ -9,6 +9,7 @@
   ./cross-workarounds.nix
   ./devices-metadata.nix
   ./documentation.nix
+  ./eg25-manager.nix
   ./generated-filesystems.nix
   ./hardware-allwinner.nix
   ./hardware-exynos.nix
